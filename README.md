@@ -1,8 +1,9 @@
 # welcome_master_pokemon
-writes welcome master in ascii art and adds cute lil pokemon-wannabe-creature after it
+Writes welcome master in ascii art and adds cute lil pokemon-wannabe-creature after it. Written and tested on Arch Linux.
 
-#install
-git clone https://github.com/ParezD/welcome_master_pokemon.git \n
-cd welcome_master_pokemon \n
-make \n
+# Install
+```bash
+git clone https://github.com/ParezD/welcome_master_pokemon.git
+cd welcome_master_pokemon
+make
 makepkg -si
